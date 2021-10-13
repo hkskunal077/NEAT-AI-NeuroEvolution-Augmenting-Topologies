@@ -16,6 +16,7 @@ bg_img = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "bg.png
 bird_img = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "bird.png")).convert_alpha())
 base_img = pygame.transform.scale2x(pygame.image.load(os.path.join("imgs", "base.png")).convert_alpha())
 
+
 gen = 0
 
 class Bird:
