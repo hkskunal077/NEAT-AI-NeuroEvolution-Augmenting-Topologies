@@ -10,8 +10,7 @@ reset_on_extinction   = False
 activation_default      = sigmoid
 activation_mutate_rate  = 0.0
 activation_options      = sigmoid
-# node aggregation options
-aggregation_default     = sum
+# node aggregation optionsaggregation_default     = sum
 aggregation_mutate_rate = 0.0
 aggregation_options     = sum
 
